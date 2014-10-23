@@ -1,10 +1,25 @@
 {
   "name": "generator-sublime-project",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "generator for a common frontend sublime project",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "sublime",
+    "sublime-text",
+    "front-end"
   ],
+  "license": "BSD",
+  "author": "Alexander Zverev <alexander.zverev@gmail.com>",
+  "repository": "https://github.com/zverev/generator-sublime-project.git",
+  "bugs": {
+    "url": "https://github.com/zverev/generator-sublime-project/issues",
+    "email": "alexander.zverev@gmail.com"
+  },
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.3"
+  },
   "dependencies": {
     "yeoman-generator": "~0.17.7"
   }
