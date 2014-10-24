@@ -1,6 +1,6 @@
 {
   "name": "generator-sublime-project",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "generator for a common frontend sublime project",
   "keywords": [
     "yeoman-generator",
@@ -15,6 +15,7 @@
     "url": "https://github.com/zverev/generator-sublime-project/issues",
     "email": "alexander.zverev@gmail.com"
   },
+  "files": ["app"],
   "main": "app/index.js",
   "engines": {
     "node": ">=0.10.0",
