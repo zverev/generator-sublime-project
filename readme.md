@@ -3,7 +3,7 @@
 A [Yeoman](http://yeoman.io) generator for creating frontend sublime project.
 Simply copies `.sublime-project` file and renames it.
 
-- ignores `node_modules` and `bower_components` folders
+- ignores `node_modules`, `bower_components`, `temp` and `dist` folders
 - ignores `*.sublime-project` and `*.sublime-workspace` files
 
 ## Getting Started
